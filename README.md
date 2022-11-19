@@ -1,2 +1,2 @@
-v1.0 - simple implentation of web.storage using nextjs.<br>
-v2.0 - user management, extra hashing, ui refinement.
+v1.0 - simple implementation of web3.storage using nextjs.<br>
+v2.0 - user identity management, extra hashing, ui refinement.
